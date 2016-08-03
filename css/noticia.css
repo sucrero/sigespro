@@ -1,0 +1,13 @@
+/* 
+    Document   : noticia
+    Created on : 12/02/2013, 04:12:38 PM
+    Author     : osfran
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.textoNoticia{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	line-height:150%;
+}
+
